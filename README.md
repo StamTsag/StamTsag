@@ -1,0 +1,5 @@
+- Hey there! I'm a 16 year old programmer!
+- Currently coding in:
+- Python, Java
+- HMU on discord for any kind of project creation/help request:
+- Shadofer#7312
