@@ -1,4 +1,4 @@
-# Shadofer#0001 [![GitHub followers](https://img.shields.io/github/followers/Shadofer?style=social)](https://github.com/Shadofer?tab=followers) [![GitHub Sponsors](https://img.shields.io/github/sponsors/Shadofer)](https://patreon.com/Shadofer)
+# Shadofer#0001 [![GitHub followers](https://img.shields.io/github/followers/Shadofer?style=social)](https://github.com/Shadofer?tab=followers) [![GitHub Sponsors](https://img.shields.io/github/sponsors/Shadofer)](https://patreon.com/Shadofer) [![Profile views](https://komarev.com/ghpvc/?username=Shadofer)](https://github.com/Shadofer)
 
 - **16 years old, from Greece.**
 
