@@ -8,7 +8,8 @@
 
 - **Hit me up at discord for any help with said languages.**
 
+<img src="https://github-profile-trophy.vercel.app/?username=shadofer&theme=onedark" />
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shadofer&count_private=true&show_icons=true&theme=react&border_radius=10)](https://github.com/Shadofer)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadofer&layout=compact)](https://github.com/Shadofer)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadofer&theme=react)](https://github.com/Shadofer)
