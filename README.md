@@ -2,11 +2,11 @@
 
 - **16 years old, from Greece.**
 
-- **Learning Python and Java for 4 years and going strong.**
+- **Learning Python for 4 years.**
 
-- **Current project: [TowerVerse](https://github.com/TowerVerse)**
+- **Current project: None**
 
-- **Hit me up at discord for any help with said languages.**
+- **Hit me up at discord for project requests.**
 
 <img src="https://github-profile-trophy.vercel.app/?username=shadofer&theme=onedark" />
 
