@@ -1,4 +1,4 @@
-# Shadofer#0001 [![GitHub followers](https://img.shields.io/github/followers/Shadofer?style=social)](https://github.com/Shadofer?tab=followers) [![GitHub Sponsors](https://img.shields.io/github/sponsors/Shadofer)](https://patreon.com/Shadofer) [![Profile views](https://komarev.com/ghpvc/?username=Shadofer)](https://github.com/Shadofer)
+# [Shadofer](https://shadofer.herokuapp.com) [![GitHub followers](https://img.shields.io/github/followers/Shadofer?style=social)](https://github.com/Shadofer?tab=followers) [![GitHub Sponsors](https://img.shields.io/github/sponsors/Shadofer)](https://patreon.com/Shadofer) [![Profile views](https://komarev.com/ghpvc/?username=Shadofer)](https://github.com/Shadofer)
 
 - **16 years old, from Greece.**
 
@@ -7,6 +7,8 @@
 - **Current project: None**
 
 - **Hit me up at discord for project requests.**
+
+- **Discord: Shadofer#0001**
 
 <img src="https://github-profile-trophy.vercel.app/?username=shadofer&theme=onedark" />
 
