@@ -1,14 +1,28 @@
-# [Shadofer](https://shadofer.herokuapp.com) [![GitHub followers](https://img.shields.io/github/followers/Shadofer?style=social)](https://github.com/Shadofer?tab=followers) [![GitHub Sponsors](https://img.shields.io/github/sponsors/Shadofer)](https://patreon.com/Shadofer) [![Profile views](https://komarev.com/ghpvc/?username=Shadofer)](https://github.com/Shadofer)
+<p align='center'><img src='https://i.ibb.co/WcQ6p2J/favicon.png'></p>
 
-- **16 years old, from Greece.**
+[![GitHub followers](https://img.shields.io/github/followers/Shadofer?style=social)](https://github.com/Shadofer?tab=followers) [![GitHub Sponsors](https://img.shields.io/github/sponsors/Shadofer)](https://patreon.com/Shadofer) [![Profile views](https://komarev.com/ghpvc/?username=Shadofer)](https://github.com/Shadofer)
 
-- **Learning Python for 4 years.**
+- **Age: 16**
 
-- **Current project: None**
+- **Country: Greece**
 
-- **Hit me up at discord for project requests.**
+- **Hobbies: Gaming, Programming till 2am**
 
 - **Discord: Shadofer#0001**
+
+- **Experience: Python (4 years), Java (2 years), C++ (1 year)**
+
+- **Main site: https://shadofer.herokuapp.com**
+
+- **Vision for the future: Get in a university and land a programming job which uses python and allows me to use linux.**
+
+## Contributions
+
+- **[dogehouse.py](https://github.com/dogegarden/dogehouse.py)**
+
+- **[mintwelcome](https://github.com/linuxmint/mintwelcome)**
+
+## Badges
 
 <img src="https://github-profile-trophy.vercel.app/?username=shadofer&theme=onedark" />
 
