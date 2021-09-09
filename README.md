@@ -18,6 +18,8 @@
 
 ## Contributions
 
+- **[pincer](https://github.com/pincer-org/pincer)**
+
 - **[dogehouse.py](https://github.com/dogegarden/dogehouse.py)**
 
 - **[mintwelcome](https://github.com/linuxmint/mintwelcome)**
