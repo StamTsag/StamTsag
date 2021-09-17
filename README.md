@@ -6,15 +6,13 @@
 
 - **Country: Greece**
 
-- **Hobbies: Gaming, Programming till 2am**
+- **Hobbies: Programming, Gaming**
 
-- **Discord: Shadofer#0001**
+- **Discord: Shadofer#6681**
 
 - **Experience: Python (4 years), Java (2 years), C++ (1 year)**
 
 - **Main site: https://shadofer.herokuapp.com**
-
-- **Vision for the future: Get in a university and land a programming job which uses python and allows me to use linux.**
 
 ## Contributions
 
