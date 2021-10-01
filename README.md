@@ -1,4 +1,4 @@
-<p align='center'><img src='https://i.ibb.co/N1ggt5h/github-avatar-readme.png'></p>
+<p align='center'><img src='https://i.ibb.co/kKKFJch/discord-pfp.png'></p>
 
 [![GitHub followers](https://img.shields.io/github/followers/Shadofer?style=social)](https://github.com/Shadofer?tab=followers) [![GitHub Sponsors](https://img.shields.io/github/sponsors/Shadofer)](https://patreon.com/Shadofer) [![Profile views](https://komarev.com/ghpvc/?username=Shadofer)](https://github.com/Shadofer)
 
