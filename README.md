@@ -14,6 +14,8 @@
 
 - **Main site: https://shadofer.herokuapp.com**
 
+- **Current project: [Fronvo](https://github.com/Fronvo)**
+
 ## Contributions
 
 - **[pincer](https://github.com/pincer-org/pincer)**
