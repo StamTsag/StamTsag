@@ -6,11 +6,11 @@
 
 - **Country: Greece**
 
-- **Hobbies: Programming, Gaming**
+- **Hobbies: Programming, Gaming (Rocket League)**
 
 - **Discord: Shadofer#6681**
 
-- **Experience: Python (4 years), Java (2 years), C++ (1 year)**
+- **Experience: Python (4 years), Java (2 years), C++ (1 year), NodeJS (2 months), Svelte (2 months)**
 
 - **Main site: https://shadofer.herokuapp.com**
 
@@ -18,11 +18,13 @@
 
 ## Contributions
 
-- **[pincer](https://github.com/pincer-org/pincer)**
+- **[pincer](https://github.com/pincer-org/pincer) - An upcoming discord.py replacement library.**
 
-- **[dogehouse.py](https://github.com/dogegarden/dogehouse.py)**
+- **[dogehouse.py](https://github.com/dogegarden/dogehouse.py) - A deprecated API for the platform of Dogehouse.**
 
-- **[mintwelcome](https://github.com/linuxmint/mintwelcome)**
+- **[mintwelcome](https://github.com/linuxmint/mintwelcome) - The welcome screen of Linux Mint.**
+
+- **[waffle](https://github.com/KittyBorgX/waffle) - A brainfuck interpreter written in Python.**
 
 ## Badges
 
