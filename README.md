@@ -2,7 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/Shadofer?style=social)](https://github.com/Shadofer?tab=followers) [![GitHub Sponsors](https://img.shields.io/github/sponsors/Shadofer)](https://patreon.com/Shadofer) [![Profile views](https://komarev.com/ghpvc/?username=Shadofer)](https://github.com/Shadofer)
 
-- **Age: 16**
+- **Age: 17 (20/1)**
 
 - **Country: Greece**
 
