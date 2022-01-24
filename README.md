@@ -10,7 +10,7 @@
 
 - **Discord: Shadofer#6681**
 
-- **Experience: Python (4 years), Java (2 years), C++ (1 year), NodeJS (2 months), Svelte (2 months)**
+- **Experience: Python (4 years), Java (2 years), C++ (1 year)**
 
 - **Main site: https://shadofer.herokuapp.com**
 
