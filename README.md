@@ -1,6 +1,4 @@
-# [Shadofer](https://shadofer.herokuapp.com)
-
-[![GitHub followers](https://img.shields.io/github/followers/Shadofer?style=social)](https://github.com/Shadofer?tab=followers) [![GitHub Sponsors](https://img.shields.io/github/sponsors/Shadofer)](https://patreon.com/Shadofer) [![Profile views](https://komarev.com/ghpvc/?username=Shadofer)](https://github.com/Shadofer)
+# [Shadofer](https://shadofer.github.io) [![Profile views](https://komarev.com/ghpvc/?username=Shadofer)](https://github.com/Shadofer)
 
 - **Age: 17 (20/1)**
 
@@ -12,7 +10,7 @@
 
 - **Experience: Python (4 years), Java (2 years), C++ (1 year)**
 
-- **Main site: https://shadofer.herokuapp.com**
+- **Main site: https://shadofer.github.io**
 
 - **Current project: [Fronvo](https://github.com/Fronvo)**
 
@@ -24,9 +22,9 @@
 
 - **[mintwelcome](https://github.com/linuxmint/mintwelcome) - The welcome screen of Linux Mint.**
 
-- **[waffle](https://github.com/KittyBorgX/waffle) - A brainfuck interpreter written in Python.**
+- **[saos](https://github.com/shiryel/saos) - A svelte scroll effect component**
 
-## Badges
+- **[waffle](https://github.com/KittyBorgX/waffle) - A brainfuck interpreter written in Python.**
 
 <img src="https://github-profile-trophy.vercel.app/?username=shadofer&theme=onedark" />
 
