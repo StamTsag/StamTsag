@@ -1,18 +1,11 @@
-# [Shadofer](https://shadofer.github.io) [![Profile views](https://komarev.com/ghpvc/?username=Shadofer)](https://github.com/Shadofer)
-
-- **Age: 17 (20/1)**
-
-- **Country: Greece**
-
-- **Hobbies: Programming, Gaming (Rocket League)**
-
-- **Discord: Shadofer#6681**
-
-- **Experience: Python (4 years), Java (2 years), C++ (1 year)**
-
-- **Main site: https://shadofer.github.io**
-
-- **Current project: [Fronvo](https://github.com/Fronvo)**
+<a href='https://shadofer.github.io'>
+    <p align='center'>
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shadofer/Shadofer/main/.github/assets/readme-dark.svg">
+            <img alt="Homepage logo" src="https://raw.githubusercontent.com/Shadofer/Shadofer/main/.github/assets/readme-white.svg">
+        </picture>
+    </p>
+</a>
 
 ## Contributions
 
@@ -26,7 +19,6 @@
 
 - **[waffle](https://github.com/KittyBorgX/waffle) - A brainfuck interpreter written in Python.**
 
-<img src="https://github-profile-trophy.vercel.app/?username=shadofer&theme=onedark" />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shadofer&count_private=true&show_icons=true&theme=react&border_radius=10)](https://github.com/Shadofer)
 
