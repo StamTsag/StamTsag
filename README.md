@@ -18,8 +18,3 @@
 - **[saos](https://github.com/shiryel/saos) - A svelte scroll effect component**
 
 - **[waffle](https://github.com/KittyBorgX/waffle) - A brainfuck interpreter written in Python.**
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shadofer&count_private=true&show_icons=true&theme=react&border_radius=10)](https://github.com/Shadofer)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadofer&theme=react)](https://github.com/Shadofer)
