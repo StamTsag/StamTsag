@@ -1,8 +1,8 @@
 <a href='https://shadofer.github.io'>
     <p align='center'>
         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shadofer/Shadofer/main/.github/assets/readme-dark.svg">
-            <img alt="Homepage logo" src="https://raw.githubusercontent.com/Shadofer/Shadofer/main/.github/assets/readme-white.svg">
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shadofer/Shadofer/main/.github/assets/shadofer-banner-white.svg">
+            <img alt="Shadofer logo" src="https://raw.githubusercontent.com/Shadofer/Shadofer/main/.github/assets/shadofer-banner-dark.svg">
         </picture>
     </p>
 </a>
