@@ -35,7 +35,5 @@ I'm a self-taught Full Stack developer from Greece 🇬🇷
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linuxmint&repo=mintwelcome" /><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dogegarden&repo=dogehouse.py" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dogegarden&repo=dogehouse.py" />
-
 <br />
 <br />
