@@ -11,11 +11,9 @@
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from Greece 🇬🇷
+I'm a self-taught Full Stack developer from Greece 🇬🇷
 
 **About me**
-
-- 💼 Upcoming FullStack Developer
 
 - 📈 Created a privacy-focused organisation, [Fronvo](https://fronvo.com)
 
