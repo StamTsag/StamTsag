@@ -7,28 +7,38 @@
     </p>
 </a>
 
-## Notable Projects
+<div>
 
-- **[Fronvo](https://github.com/Fronvo)**, the open-source Svelte social media
+<br />
 
-- **[My homepage](https://github.com/Shadofer/shadofer.github.io)**, made in Svelte
+I'm a self-taught passionate FrontEnd developer from Greece 🇬🇷
 
-- **[XMAS Counter](https://github.com/Shadofer/xmas-counter)**, an online christmas day counter made in Svelte
+**About me**
 
-- **[Youtube homepage](https://github.com/Shadofer/youtube-homepage)**, my Youtube homepage recreated in Svelte
+- 💼 Upcoming FullStack Developer
 
-- **[Dogey](https://github.com/Shadofer/dogey)**, a basic [dogehouse](https://github.com/benawad/dogehouse) pythonic API
+- 📈 Created a privacy-focused organisation, [Fronvo](https://fronvo.com)
 
-- **[TowerVerse](https://github.com/TowerVerse)**, an online traveller-themed Godot game.
+- ❤️ Focused on TypeScript, Svelte and NodeJS to design unique concepts
 
-## Contributions
+- 💬 Find me on discord: @shadofer
 
-- **[pincer](https://github.com/pincer-org/pincer)** - An upcoming discord.py replacement library.
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=shadofer&show_icons=true&include_all_commits=true&hide_border=true" alt="Anurag's github stats" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadofer&layout=compact&hide_border=true" />
 
-- **[dogehouse.py](https://github.com/dogegarden/dogehouse.py)** - A deprecated API for the platform of Dogehouse.
 
-- **[mintwelcome](https://github.com/linuxmint/mintwelcome)** - The welcome screen of Linux Mint.
+### Top Repositories
 
-- **[saos](https://github.com/shiryel/saos)** - A svelte scroll effect component
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fronvo&repo=site" />  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fronvo&repo=server" />
 
-- **[waffle](https://github.com/KittyBorgX/waffle)** - A brainfuck interpreter written in Python.
+<br />
+
+### Contributions
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shiryel&repo=saos" /> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pincer-org&repo=pincer" />
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dogegarden&repo=dogehouse.py" /> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linuxmint&repo=mintwelcome" />
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dogegarden&repo=dogehouse.py" />
+
+<br />
+<br />
