@@ -25,15 +25,15 @@ I'm a self-taught Full Stack developer from Greece 🇬🇷
 
 #### Top Repositories
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fronvo&repo=site" /> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fronvo&repo=server" />
+<a href='https://github.com/fronvo/site'><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fronvo&repo=site" /> </a> <a href='https://github.com/fronvo/server'><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fronvo&repo=server" /> </a>
 
 <br />
 
 #### Contributions
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shiryel&repo=saos" /> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pincer-org&repo=pincer" />
+<a href='https://github.com/shiryel/saos'><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shiryel&repo=saos" /></a> <a href='https://github.com/pincer-org/pincer'><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pincer-org&repo=pincer" /> </a>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linuxmint&repo=mintwelcome" /><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dogegarden&repo=dogehouse.py" />
+<a href='https://github.com/linuxmint/mintwelcome'><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linuxmint&repo=mintwelcome" /> </a> <a href='https://github.com/dogegarden/dogehouse.py'><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dogegarden&repo=dogehouse.py" /> </a>
 
 <br />
 <br />
