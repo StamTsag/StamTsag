@@ -1,4 +1,4 @@
-<a href='https://shadofer.github.io'>
+<a href='https://shadofer.com'>
     <p align='center'>
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shadofer/Shadofer/main/.github/assets/shadofer-banner-white.svg">
