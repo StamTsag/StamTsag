@@ -26,10 +26,6 @@ I'm a Self taught Fullstack developer from Greece 🇬🇷
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=shadofer&show_icons=true&include_all_commits=true&hide_border=true" alt="Shadofer's github stats" />
 
-#### Top Repositories
-
-<a href='https://github.com/fronvo/site'><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fronvo&repo=site" /> </a> <a href='https://github.com/fronvo/server'><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fronvo&repo=server" /> </a>
-
 <br />
 
 #### Contributions
