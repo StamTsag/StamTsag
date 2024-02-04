@@ -15,7 +15,7 @@ I'm a Self taught Fullstack developer from Greece 🇬🇷
 
 **About me**
 
-- 💎 Owner of the all-in-one social media, [Fronvo](https://fronvo.com)
+- 💎 Owner of the all-in-one social media, [Fronvo](https://github.com/Fronvo)
 
 - ❤️ Expertise in NodeJS, Typescript and Svelte
 
