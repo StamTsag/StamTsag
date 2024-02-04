@@ -11,17 +11,20 @@
 
 <br />
 
-I'm a self-taught Full Stack developer from Greece 🇬🇷
+I'm a Self taught Fullstack developer from Greece 🇬🇷
 
 **About me**
 
-- 📈 Created a privacy-focused organisation, [Fronvo](https://fronvo.com)
+- 💎 Owner of the all-in-one social media, [Fronvo](https://fronvo.com)
 
-- ❤️ Focused on TypeScript, Svelte and NodeJS to design unique concepts
+- ❤️ Expertise in NodeJS, Typescript and Svelte
 
-- 💬 Find me on discord: @shadofer
+- 💬 Find me on fronvo/discord: @shadofer
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=shadofer&show_icons=true&include_all_commits=true&hide_border=true" alt="Anurag's github stats" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadofer&layout=compact&hide_border=true" />
+</br>
+</br>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=shadofer&show_icons=true&include_all_commits=true&hide_border=true" alt="Shadofer's github stats" />
 
 #### Top Repositories
 
