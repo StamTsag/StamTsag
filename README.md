@@ -22,7 +22,6 @@ I'm a Self taught Fullstack developer from Greece 🇬🇷
 - 💬 Find me on fronvo/discord: @shadofer
 
 </br>
-</br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=shadofer&show_icons=true&include_all_commits=true&hide_border=true" alt="Shadofer's github stats" />
 
