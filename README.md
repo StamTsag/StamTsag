@@ -1,8 +1,8 @@
 <a href='https://shadofer.com'>
     <p align='center'>
         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shadofer/Shadofer/main/.github/assets/shadofer-banner-white.svg">
-            <img alt="Shadofer logo" src="https://raw.githubusercontent.com/Shadofer/Shadofer/main/.github/assets/shadofer-banner-dark.svg">
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shadofer/Shadofer/main/.github/assets/banner-white.svg">
+            <img alt="Shadofer logo" src="https://raw.githubusercontent.com/Shadofer/Shadofer/main/.github/assets/banner-dark.svg">
         </picture>
     </p>
 </a>
@@ -11,7 +11,7 @@
 
 <br />
 
-I'm a Self taught Fullstack developer from Greece 🇬🇷
+I'm a Self taught Fullstack & Software engineer from Greece 🇬🇷
 
 **About me**
 
@@ -19,11 +19,9 @@ I'm a Self taught Fullstack developer from Greece 🇬🇷
 
 - ❤️ Expertise in NodeJS, Typescript and Svelte
 
-- 💬 Find me on fronvo/discord: @shadofer
-
 </br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=shadofer&show_icons=true&include_all_commits=true&hide_border=true" alt="Shadofer's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=shadofer&show_icons=true&include_all_commits=true&hide_border=true" alt="Stam Tsag's github stats" />
 
 <br />
 
