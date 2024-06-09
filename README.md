@@ -1,8 +1,8 @@
-<a href='https://shadofer.com'>
+<a href='https://stamtsag.com'>
     <p align='center'>
         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shadofer/Shadofer/main/.github/assets/banner-white.svg">
-            <img alt="Shadofer logo" src="https://raw.githubusercontent.com/Shadofer/Shadofer/main/.github/assets/banner-dark.svg">
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StamTsag/StamTsag/main/.github/assets/banner-white.svg">
+            <img alt="StamTsag logo" src="https://raw.githubusercontent.com/StamTsag/StamTsag/main/.github/assets/banner-dark.svg">
         </picture>
     </p>
 </a>
@@ -11,7 +11,7 @@
 
 <br />
 
-I'm a Self taught Fullstack & Software engineer from Greece 🇬🇷
+I'm a Fullstack & Software engineer from Greece 🇬🇷
 
 **About me**
 
@@ -21,7 +21,7 @@ I'm a Self taught Fullstack & Software engineer from Greece 🇬🇷
 
 </br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=shadofer&show_icons=true&include_all_commits=true&hide_border=true" alt="Stam Tsag's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=stamtsag&show_icons=true&include_all_commits=true&hide_border=true" alt="Stam Tsag's github stats" />
 
 <br />
 
