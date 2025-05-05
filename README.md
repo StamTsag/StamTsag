@@ -15,7 +15,7 @@ I'm a Fullstack & Software engineer from Greece 🇬🇷
 
 **About me**
 
-- 💎 Owner of the all-in-one social media, [Fronvo](https://github.com/Fronvo)
+- 🟩 Founder of [DevPair](https://devpair.app), the developer connections platform
 
 - ❤️ Expertise in NodeJS, Typescript and Svelte
 
