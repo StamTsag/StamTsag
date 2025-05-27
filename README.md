@@ -15,6 +15,8 @@ I'm a Fullstack & Software engineer from Greece 🇬🇷
 
 **About me**
 
+- 🟦 Creator of [Calendizer](https://calendizer.app), the Roadmap x Calendar integration platform
+
 - 🟩 Founder of [DevPair](https://devpair.app), the developer connections platform
 
 - ❤️ Expertise in NodeJS, Typescript and Svelte
