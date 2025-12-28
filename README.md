@@ -25,15 +25,18 @@ I'm a Fullstack & Software engineer from Greece 🇬🇷
 
 </br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=stamtsag&show_icons=true&include_all_commits=true&hide_border=true" alt="Stam Tsag's github stats" />
+<img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=stamtsag&show_icons=true" alt="Stam Tsag's Github stats" />
+
+<img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=stamtsag&layout=compact" alt="Stam Tsag's Github languages" />
+
 
 <br />
 
 #### Contributions
 
-<a href='https://github.com/shiryel/saos'><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shiryel&repo=saos" /></a> <a href='https://github.com/pincer-org/pincer'><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pincer-org&repo=pincer" /> </a>
+<a href='https://github.com/shiryel/saos'><img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=shiryel&repo=saos" /></a> <a href='https://github.com/pincer-org/pincer'><img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=pincer-org&repo=pincer" /> </a>
 
-<a href='https://github.com/linuxmint/mintwelcome'><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=linuxmint&repo=mintwelcome" /> </a> <a href='https://github.com/dogegarden/dogehouse.py'><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dogegarden&repo=dogehouse.py" /> </a>
+<a href='https://github.com/linuxmint/mintwelcome'><img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=linuxmint&repo=mintwelcome" /> </a> <a href='https://github.com/dogegarden/dogehouse.py'><img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=dogegarden&repo=dogehouse.py" /> </a>
 
 <br />
 <br />
